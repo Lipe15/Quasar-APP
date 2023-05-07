@@ -1,0 +1,15 @@
+{
+    "apartamentos":[
+      {"id":1, "numero":"1234AB", "cpf_inquilino":"0000000"}
+    ],
+  "encomendas": [
+
+     { "id": 1,
+     "name": "CaixaKabum",
+     "destinatário": "1234AB",
+     "coletor":"João da Silva",
+     "Data_de_recebimento": "2023-00-00",
+     "retirado":true
+    }
+  ]
+}
